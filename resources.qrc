@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>../../PROJECT_SAVE_VERSION_FINALE/19007-01.jpg</file>
+    </qresource>
+</RCC>

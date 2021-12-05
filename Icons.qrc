@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/Add-Book.png</file>
+        <file>Icons/Add-Prof.png</file>
+        <file>Icons/Add-Student.png</file>
+        <file>Icons/Afficher.png</file>
+        <file>Icons/Bibliotheque.png</file>
+        <file>Icons/Create.png</file>
+        <file>Icons/Load.png</file>
+        <file>Icons/Quitter.png</file>
+        <file>Icons/Save.png</file>
+        <file>Icons/Search-Book.png</file>
+        <file>Icons/Search-Prof.png</file>
+        <file>Icons/Search-Student.png</file>
+        <file>Icons/Success.png</file>
+        <file>Icons/Suppression.png</file>
+        <file>Icons/Warning.png</file>
+        <file>Icons/Emprunte.png</file>
+        <file>Icons/Affiche-Emprunte.png</file>
+        <file>Icons/background.png</file>
+        <file>Icons/Mod-Book.png</file>
+        <file>Icons/Mod-Prof.png</file>
+        <file>Icons/Mod-Student.png</file>
+    </qresource>
+    <qresource prefix="/Icons"/>
+</RCC>

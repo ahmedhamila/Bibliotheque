@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/CSV">
+        <file>Arrays.csv</file>
+        <file>Emprunte.csv</file>
+        <file>Enseignant.csv</file>
+        <file>Etudiant.csv</file>
+        <file>Livre.csv</file>
+    </qresource>
+</RCC>

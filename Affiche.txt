@@ -1,0 +1,24 @@
+		   *************Bibliotheque*************
+
+		       ***** Liste des Livres : *****
+
+
+		Titre       |Code|Quantite|Date Release
+		Harry Potter|1   |49994   |26/12/2001
+		Doom        |2002|44      |12/12/2001
+		*******************************************
+
+		     ***** Liste des Etudiants : *****
+
+		Nom   |Prenom|CIN
+		Hamila|Ahmed |12849683
+		Klai  |Rayen |55436333
+		*******************************************
+		    ***** Liste des Enseignants : *****
+
+		Nom     |Prenom |CIN
+		Miled   |Yessine|11111111
+		Belazreg|Ahmed  |22222222
+		*******************************************
+		  **************************************
+
