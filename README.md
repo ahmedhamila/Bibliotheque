@@ -23,6 +23,6 @@ This is a desktop GUI application developed using C++ and the Qt framework in Qt
 ## Contributing
 This project was developed as a part of an academic project in the second year of preparatory degree. Contributions and suggestions are welcome.
 
-## Install App
+## Install App for Demo
 Installer  : https://mega.nz/folder/RN0jUARD#8ELSQVVlaBR-qglqdb33ww
 
